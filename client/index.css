@@ -1,0 +1,11 @@
+.banner {
+    width: 100%;
+}
+
+.text-body {
+    background-color: rgb(162, 162, 197);
+}
+
+.chirps {
+    font-size: 20px;
+}
